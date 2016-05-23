@@ -1,0 +1,8 @@
+testNormalApiCall:pass
+testNormalSpringCall:pass
+testTimeoutCall:pass
+testCatchException:pass
+testFutureCall:pass
+testCallback:pass
+testRpcContext:pass
+testConsumerHook:pass
